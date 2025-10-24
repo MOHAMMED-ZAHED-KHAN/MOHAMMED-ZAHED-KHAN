@@ -82,11 +82,11 @@ Credits and references used in this README:
     <td align="center" width="33%">
       <a href="https://leetcode.com/u/Mohammed_Zahed_Khan/">
         <img src="https://tse2.mm.bing.net/th/id/OIP.oWiIFkqOXUhNT0xcBbLBagHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
-             alt="My Leetcode Account"
+             alt="My LeetCode Account"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
        <br/>
-      🔗 <a href="https://leetcode.com/u/Mohammed_Zahed_Khan/">My Leetcode Account</a>
+      🔗 <a href="https://leetcode.com/u/Mohammed_Zahed_Khan/">My LeetCode Account</a>
       <br/>
     </td>
     <td align="center" width="33%">
@@ -102,11 +102,11 @@ Credits and references used in this README:
      <td align="center" width="33%">
       <a href="https://www.hackerrank.com/profile/24bk1a66r0">
         <img src="https://www.hackerrank.com/wp-content/uploads/2023/06/Black-Social-Share.png"
-             alt="My HACKERRANK Account"
+             alt="My HackerRank Account"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
        <br/>
-      🔗 <a href="https://www.hackerrank.com/profile/24bk1a66r0">My HACKERRANK Account</a>
+      🔗 <a href="https://www.hackerrank.com/profile/24bk1a66r0">My HackerRank Account</a>
       <br/>
     </td>
   </tr>
