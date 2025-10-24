@@ -11,7 +11,7 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# MOHAMMED ZAHED KHAN
+# 👋 Hi! I'm MOHAMMED ZAHED KHAN
 **`curious coder`** 
 
 ## About Me
@@ -110,7 +110,7 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![ZAHED' GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHAMMED-ZAHED-KHAN&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=MOHAMMED-ZAHED-KHAN&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ---
 
 ## Links
