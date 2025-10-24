@@ -15,17 +15,15 @@ Credits and references used in this README:
 **`curious coder`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- I am a passionate and AI enthusiastic 2nd-year B.Tech student in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at St. Peter’s Engineering College. I have a strong foundation in programming with proficiency in Java and C, along with a solid understanding of Data Structures and Algorithms (DSA).
+- Results-driven individual with a solid track record in delivering quality work. Known for excellent communication and teamwork abilities, with a commitment to achieving goals and delivering exceptional service. Passionate about continuous learning and professional development.
+- I am confident in my ability to learn new technologies quickly and apply them effectively to solve real-world problems. My strong communication skills and confidence allow me to work well in team environments and present ideas clearly. I am eager to explore opportunities that help me grow as a software developer and AI enthusiast while contributing meaningfully to innovative projects.
 
 
 ## Skills
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 ![My Skills](https://skillicons.dev/icons?i=c,git,github,java,python)
-
-**Also comfortable with**: SQL.
 
 
 ---
@@ -78,6 +76,33 @@ Credits and references used in this README:
 
 ---
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://leetcode.com/u/Mohammed_Zahed_Khan/">
+        <img src="https://tse2.mm.bing.net/th/id/OIP.oWiIFkqOXUhNT0xcBbLBagHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+             alt="My Leetcode Account"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+       <br/>
+      🔗 <a href="https://leetcode.com/u/Mohammed_Zahed_Khan/">My Leetcode Account</a>
+      <br/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.geeksforgeeks.org/myCourses">
+        <img src="https://th.bing.com/th/id/OIP.xezyt6e_XturY0EDlzhoSQHaFM?w=228&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
+             alt="My GFG Account"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+       <br/>
+      🔗 <a href="https://www.geeksforgeeks.org/myCourses">My GFG Account</a>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
@@ -85,7 +110,8 @@ Credits and references used in this README:
 - [**E-mail**](24bk1a66r0@stpetershyd.com)
 
 <a href="https://www.linkedin.com/in/mohammed-zahed-khan-85a04a362/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 <!-- </a>
 <a href="https://www.instagram.com/mmaximus.soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
