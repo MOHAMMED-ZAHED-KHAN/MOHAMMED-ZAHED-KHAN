@@ -75,6 +75,7 @@ Credits and references used in this README:
 </table>
 
 ---
+## CODING ACCOUNTS
 
 <table>
   <tr>
@@ -96,6 +97,16 @@ Credits and references used in this README:
       </a>
        <br/>
       🔗 <a href="https://www.geeksforgeeks.org/myCourses">My GFG Account</a>
+      <br/>
+    </td>
+     <td align="center" width="33%">
+      <a href="https://www.hackerrank.com/profile/24bk1a66r0">
+        <img src="https://www.hackerrank.com/wp-content/uploads/2023/06/Black-Social-Share.png"
+             alt="My HACKERRANK Account"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+       <br/>
+      🔗 <a href="https://www.hackerrank.com/profile/24bk1a66r0">My HACKERRANK Account</a>
       <br/>
     </td>
   </tr>
