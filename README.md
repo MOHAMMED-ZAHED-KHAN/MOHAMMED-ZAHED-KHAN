@@ -32,47 +32,31 @@ Credits and references used in this README:
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="left" width="50%">
       <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT">
         <img src="https://foundersguide.com/wp-content/uploads/2020/02/voicemail.jpg"
-             alt="Python project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             width="100%" height="200" />
       </a>
       <br/>
-      <b>Voice based Email System For Visually Impaired</b><br/>
-      <sub>Built an e-mail system that is fully voice controlled using python.</sub><br/>
-      🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT.git">Repo</a>
-      <!-- <!-- <br/> -->
-      <!-- <sub>Tags: AI, LLMs, Prompt Engineering</sub> --> 
-    <!-- </td>
-    <td align="center" width="33%">
+      <b>Voice Based Email System</b><br/>
+      <sub>Voice-controlled email system using Python.</sub><br/>
+      🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT">Repo</a>
+    </td>
+
+    <td align="right" width="50%">
       <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA">
-        <img src="https://tse4.mm.bing.net/th/id/OIP.HUbDfqFi73ejzqx5eg1sOQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
-             alt="JAVA Projects"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://cdn.mos.cms.futurecdn.net/WUwsU8gZDaJ89kccDxtqkn.jpg"
+             width="100%" height="200" />
       </a>
       <br/>
-      <b>Java projects</b><br/>
-      <!-- <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/> -->
-      <!-- 🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA.git">Repo</a>
-      <br/>
-      <!-- <sub>Tags: DevOps, Docker, GitHub Actions</sub> --> 
-    <!-- </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
-             style="width:100%; height:200px; object-fit:cover;"/> -->
-      <!-- </a>
-      <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
-      <br/>
-      <sub>Tags: Networking, AWS, Security</sub> --> 
+      <b>Notepad Using Java AWT</b><br/>
+      <sub>Simple Notepad built with Java AWT components.</sub><br/>
+      🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA">Repo</a>
     </td>
   </tr>
 </table>
+
+
 
 ---
 ## CODING ACCOUNTS
