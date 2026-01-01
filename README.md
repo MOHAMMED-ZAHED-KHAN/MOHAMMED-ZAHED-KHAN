@@ -34,7 +34,7 @@ Credits and references used in this README:
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT">
-    <img src=""C:\Users\ZAINABH FATIMA\Downloads\Gemini_Generated_Image_g88s51g88s51g88s.png"" width="100%" />
+    <img src="https://thumbs.dreamstime.com/z/voice-mail-represents-message-system-communicate-indicating-answering-machine-send-45846242.jpg" width="100%" />
   </a>
   <br>
   <b>Voice Based Email System</b><br>
@@ -48,7 +48,7 @@ Credits and references used in this README:
   </a>
   <br>
   <b>Notepad Using Java AWT</b><br>
-  <sub>Simple Notepad built with Java AWT.</sub><br>
+  <sub>Simple Notepad built with Java AWT Components.</sub><br>
   🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA">Repo</a>
 </td>
 </tr>
@@ -97,15 +97,6 @@ Credits and references used in this README:
 
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=MOHAMMED-ZAHED-KHAN&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
----
 
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
