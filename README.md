@@ -31,30 +31,29 @@ Credits and references used in this README:
 ## Projects - showcase
 
 <table>
-  <tr>
-    <td align="left" width="50%">
-      <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT">
-        <img src="https://foundersguide.com/wp-content/uploads/2020/02/voicemail.jpg"
-             width="100%" height="200" />
-      </a>
-      <br/>
-      <b>Voice Based Email System</b><br/>
-      <sub>Voice-controlled email system using Python.</sub><br/>
-      🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT">Repo</a>
-    </td>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT">
+    <img src=""C:\Users\ZAINABH FATIMA\Downloads\Gemini_Generated_Image_g88s51g88s51g88s.png"" width="100%" />
+  </a>
+  <br>
+  <b>Voice Based Email System</b><br>
+  <sub>Voice-controlled email system using Python.</sub><br>
+  🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/MINI-PROJECT">Repo</a>
+</td>
 
-    <td align="right" width="50%">
-      <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA">
-        <img src="https://cdn.mos.cms.futurecdn.net/WUwsU8gZDaJ89kccDxtqkn.jpg"
-             width="100%" height="200" />
-      </a>
-      <br/>
-      <b>Notepad Using Java AWT</b><br/>
-      <sub>Simple Notepad built with Java AWT components.</sub><br/>
-      🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA">Repo</a>
-    </td>
-  </tr>
+<td align="center" width="50%">
+  <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA">
+    <img src="https://cdn.mos.cms.futurecdn.net/WUwsU8gZDaJ89kccDxtqkn.jpg" width="100%" />
+  </a>
+  <br>
+  <b>Notepad Using Java AWT</b><br>
+  <sub>Simple Notepad built with Java AWT.</sub><br>
+  🔗 <a href="https://github.com/MOHAMMED-ZAHED-KHAN/PROJECTS-IN-JAVA">Repo</a>
+</td>
+</tr>
 </table>
+
 
 
 
