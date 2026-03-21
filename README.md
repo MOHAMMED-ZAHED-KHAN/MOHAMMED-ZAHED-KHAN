@@ -12,18 +12,22 @@ Credits and references used in this README:
 -->
 
 # 👋 Hi! I'm MOHAMMED ZAHED KHAN
-**`curious coder`** 
+**Full Stack Developer** • **CS Student @ St.Peter's Engineering College**
 
 ## About Me
-- I am a passionate and AI enthusiastic 2nd-year B.Tech student in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at St. Peter’s Engineering College. I have a strong foundation in programming with proficiency in Java and C, along with a solid understanding of Data Structures and Algorithms (DSA).
-- Results-driven individual with a solid track record in delivering quality work. Known for excellent communication and teamwork abilities, with a commitment to achieving goals and delivering exceptional service. Passionate about continuous learning and professional development.
-- I am confident in my ability to learn new technologies quickly and apply them effectively to solve real-world problems. My strong communication skills and confidence allow me to work well in team environments and present ideas clearly. I am eager to explore opportunities that help me grow as a software developer and AI enthusiast while contributing meaningfully to innovative projects.
+- Passionate full stack developer with **9.59 CGPA** building scalable applications
+- I don’t just write code — I build ideas into reality.  
+  From debugging errors to designing solutions, every line I write is a step forward.  
+   
+  ⚡ Curious mind  
+  💻 Growing developer  
+  🚀 Future innovator
 
 
 ## Skills
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-![My Skills](https://skillicons.dev/icons?i=c,git,github,java,python)
+![My Skills](https://skillicons.dev/icons?i=c,git,github,java,python,javascript,html,css,mysql)
 
 
 ---
@@ -98,19 +102,12 @@ Credits and references used in this README:
 ---
 
 
-## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Linkedin**](https://www.linkedin.com/in/mohammed-zahed-khan-85a04a362)
-- [**E-mail**](24bk1a66r0@stpetershyd.com)
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/navalbihani15](https://www.linkedin.com/in/mohammed-zahed-khan-85a04a362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohammed_Zahed_Khan/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohammedzahedkhan2856@gmail.com)
 
-<a href="https://www.linkedin.com/in/mohammed-zahed-khan-85a04a362/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-<!-- </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a> -->
 
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+<div align="center">
+<i>⚡ "Think. Code. Break. Fix. Repeat"</i>
+</div>
