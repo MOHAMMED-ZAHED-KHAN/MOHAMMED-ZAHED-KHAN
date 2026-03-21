@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # 👋 Hi! I'm MOHAMMED ZAHED KHAN
-**Full Stack Developer** • **CS Student @ St.Peter's Engineering College**
+**2nd year CS(AIML) Student @ St.Peter's Engineering College**
 
 ## About Me
 - Passionate full stack developer with **9.59 CGPA** building scalable applications
