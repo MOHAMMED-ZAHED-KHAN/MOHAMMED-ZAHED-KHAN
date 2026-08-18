@@ -49,7 +49,7 @@ I enjoy building practical solutions, exploring new technologies, and strengthen
 * Secured **Global Rank 7106** in **TCS CodeVita Season 13** among global participants
 * 🧩 Solved **100+ problems on LeetCode** and actively improving DSA skills
 * 🔥 Earned **LeetCode 50 Days Badge** for consistent problem-solving
-* 🟢 Achieved a **130+ Coding Score on GeeksforGeeks**
+* 🟢 Achieved a **150+ Coding Score on GeeksforGeeks**
 * 🥈 Achieved **2× 2nd Place** in the **Code Debugging Competition** at **SpecFiesta**, the flagship technical event of **St. Peter's Engineering College**
 * 🥉 Secured **3rd Rank in CSE (AI & ML) Branch** in 1st Year
 * 🎓 Maintaining a **9.59 CGPA** in B.Tech CSE (AI & ML)
@@ -119,7 +119,7 @@ I enjoy building practical solutions, exploring new technologies, and strengthen
 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mohammed_Zahed_Khan/) : Solved **100+ questions**
 
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/24bk1az6s3?from=explore&tab=activity) : Solved **100+ questions** • Coding Score **130+**
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/24bk1az6s3?from=explore&tab=activity) : Solved **100+ questions** • Coding Score **150+**
 
 ---
 
