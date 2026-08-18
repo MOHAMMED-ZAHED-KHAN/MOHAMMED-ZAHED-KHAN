@@ -19,7 +19,7 @@ Credits and references used in this README:
 
 <p align="center">
   <b>Java Developer</b> • <b>Java / Machine Learning / Python</b><br>
-  LeetCode 100+ problems solved • GeeksforGeeks 100+ problems solved , Coding Score - 130+<br>
+  LeetCode 100+ problems solved • GeeksforGeeks 100+ problems solved , Coding Score - 150+<br>
   TCS CodeVita Season 13 Rank 7106
 </p>
 
